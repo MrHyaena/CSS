@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(255, 206, 206);
+    font-family: "Verdana" "DejaVu Sans", sans-serif ;
+}
+
+.trojka {
+    font-size: 24px;
+}
+
+#ctyri {
+    background: rgb(153, 243, 165);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#dvojka {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
